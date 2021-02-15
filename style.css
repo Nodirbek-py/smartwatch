@@ -1,0 +1,72 @@
+
+
+body {
+    background: #08162B;
+}
+
+.navbar {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-top: 40px;
+}
+
+.right-navbar > a {
+    font-style: normal;
+    font-weight: normal;
+    font-size: 20px;
+    line-height: 25px;
+    text-decoration: none;
+    color: white;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    margin: 20px;
+}
+
+.chap {
+    margin: 10px;
+}
+
+.buy {
+    border: none;
+    background: #F29494;
+    padding: 10px 24px;
+}
+
+.p1 {
+    color: white;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 80px;
+    line-height: 127px;
+    font-family: 'Inter', sans-serif;
+    margin-left: 202px;
+}
+
+.p2 {
+    font-family: Mark-Regular;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 30px;
+    line-height: 38px;
+    letter-spacing: 0.5em;
+    margin-left: 202px;
+    margin-top: -100px;
+    color: #EF9C9C;
+}
+
+.p3 {
+    font-style: normal;
+    font-weight: normal;
+    font-size: 17px;
+    line-height: 25px;
+    text-align: justify;
+    margin-left: 202px;
+    margin-top: -10px;
+    font-family: 'Lexend Mega', sans-serif;
+    color: #D8D8D8
+}
+
+.content {
+    margin-left: 861px;
+    margin-top: -400px;
+}
